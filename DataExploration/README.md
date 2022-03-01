@@ -1,3 +1,5 @@
+# Project 1
+
 COVID-19 related data exploration. 
 
 Dataset pulled from https://ourworldindata.org/covid-deaths.
