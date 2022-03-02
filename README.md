@@ -8,3 +8,6 @@ is a dashboard created in Tableau Public using data from Project 1.
 
 [Project 3](https://github.com/anacionales/PortfolioProjects/tree/main/DataCleaning)
 involves data cleaning an imperfect dataset.
+
+[Project 4](https://github.com/anacionales/PortfolioProjects/blob/main/CorrelationInPython/Movie%20Correlation%20Project.ipynb)
+uses Python to find correlation between variables.
