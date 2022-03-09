@@ -11,3 +11,6 @@ involves data cleaning an imperfect dataset.
 
 [Project 4](https://github.com/anacionales/PortfolioProjects/blob/main/CorrelationInPython/Movie%20Correlation%20Project.ipynb)
 uses Python to find correlation between variables.
+
+[Project_5](https://github.com/anacionales/PortfolioProjects/blob/main/AmazonWebScraping/Amazon%20Web%20Scraper%20Project.ipynb)
+uses Python, BeautifulSoup, and requests to scrape data from Amazon.
