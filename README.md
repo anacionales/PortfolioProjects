@@ -14,3 +14,6 @@ uses Python to find correlation between variables.
 
 [Project 5](https://github.com/anacionales/PortfolioProjects/blob/main/AmazonWebScraping/Amazon%20Web%20Scraper%20Project.ipynb)
 uses Python, BeautifulSoup, and requests to scrape data from Amazon.
+
+[Project 6](https://public.tableau.com/app/profile/anjomar.nacionales/viz/AirBnBFullProject_16469361212870/Dashboard1)
+is a dashboard created in Tableau Public using AirBnB data.
