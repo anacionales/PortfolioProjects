@@ -17,3 +17,6 @@ uses Python, BeautifulSoup, and requests to scrape data from Amazon.
 
 [Project 6](https://public.tableau.com/app/profile/anjomar.nacionales/viz/AirBnBFullProject_16469361212870/Dashboard1)
 is a dashboard created in Tableau Public using AirBnB data.
+
+[Project 7](https://github.com/anacionales/PortfolioProjects/tree/main/ExcelProject)
+is a dashboard created in Excel using Bike Buyers data.
